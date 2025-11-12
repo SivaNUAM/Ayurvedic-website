@@ -1,0 +1,66 @@
+{
+  "navbar": {
+    "home": "Homa",
+    "about": "Abuta",
+    "treatments": "Treata",
+    "doctors": "Doctara",
+    "contact": "Kontakta"
+  },
+  "hero": {
+    "title": "Ananda Ayurveda Klinika te Lovasikia",
+    "subtitle": "Heli via natura, balans e antika visdoma",
+    "cta": "Booka Treata"
+  },
+  "about": {
+    "heading": "Abuta Nostra Klinika",
+    "text": "Ananda Ayurveda es un holistika centra di heli, dedika por restora balans interna via tradision Ayurveda e herbala remedi. Nostra doctara kombina antika visdoma kun moderna karea por harmonia di korpo e mente."
+  },
+  "services": {
+    "heading": "Nostra Ayurvedika Treata",
+    "panchakarma": "Un komplet detoxa processa por rejuvena korpo, mente e spirita.",
+    "shirodhara": "Un kalma terapi kun herbala olii por balans mental energia.",
+    "massage": "Warm olii massaja por detoxa e relaxa la korpo.",
+    "weight": "Personalisa herbala treata e dieto por sana balans e pesu."
+  },
+  "doctors": {
+    "heading": "Incontra Nostra Doctara",
+    "experience": "anios experia"
+  },
+  "testimonials": {
+    "heading": "Kliens Parola"
+  },
+  "contact": {
+    "heading": "Kontakta Nos",
+    "description": "Hava questi o vol komensa via Ayurveda journia? Skriba nos hodia.",
+    "name": "Tua Namo",
+    "email": "Tua Emailo",
+    "message": "Tua Mesajo",
+    "send": "Sendi Mesajo"
+  },
+  "footer": {
+    "quote": "Rekonekta mente, korpo e spirita via Ayurveda.",
+    "rights": "Toti raiti reservata."
+  },
+  "home": {
+    "title": "Benvena a Sattva Ayurvedika Wellness",
+    "subtitle": "Experia autentika heli designa por balans tua korpo, mente e spirita.",
+    "exploreTreatments": "Explora Treata",
+    "learnMore": "Savo Pli",
+    "ourTreatments": "Nostra Signatura Terapias",
+    "treatmentsDesc": "Antika metodoj, moderna kura, personal rezultoj — omni radika en natura.",
+    "viewAllTreatments": "Vidi Toti Treata",
+    "aboutAyurveda": "Quo es Ayurveda?",
+    "aboutText": "Ayurveda es un 5000-anio holistika scienca de India, promova balans inter korpo, mente e konsciencia per natura terapias e herbala medikamento.",
+    "expertDoctors": "Incontra Nostra Eksperta Doctara",
+    "doctorsDesc": "Heli doctara kun klasika Ayurveda, pasiona por tua benesa.",
+    "viewAllDoctors": "Videa Toti Doctara",
+    "patientStories": "Kliens Sucesa Historia",
+    "testimonial1": "Post 21 dias de Pan’kara, mia krona fatiga vanis. Mi dormas profunde, digesto perfekta, e senti renaskita. Vera miraklo!",
+    "testimonial2": "Shiro’niva kura mia 5-anio migrena. Nenia pli doloro-medikamento. Mi povas labori, fokusa, e vivi denove. Dankon, Dr. Liora!",
+    "testimonial3": "Mia kora sano plibonigis 40% en 3 monatoj — naturala. Nenia medikamento, nur herba e dieto. Mi senti 10 anios plu yuna!",
+    "readyToHeal": "Pret por komensa tua heli journia?",
+    "contactPrompt": "Kontakta nostra Ayurvedika eksperta e booka tua personalisa konsulto hodia.",
+    "bookNow": "Booka Appointamento"
+  },
+  "navbar": { "home": "Homa", "about": "Abuta", "treatments": "Treata", "doctors": "Doctara", "contact": "Kontakta" }
+}

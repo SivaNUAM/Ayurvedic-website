@@ -1,0 +1,66 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "treatments": "Treatments",
+    "doctors": "Doctors",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to Ananda Ayurvedic Clinic",
+    "subtitle": "Healing through nature, balance, and ancient wisdom",
+    "cta": "Book an Appointment"
+  },
+  "about": {
+    "heading": "About Our Clinic",
+    "text": "Ananda Ayurveda is a holistic healing center dedicated to restoring your inner balance through traditional Ayurvedic practices and herbal remedies. Our certified practitioners combine ancient wisdom with modern care to bring harmony to your body and mind."
+  },
+  "services": {
+    "heading": "Our Ayurvedic Treatments",
+    "panchakarma": "A complete detoxification process to rejuvenate your body, mind, and spirit.",
+    "shirodhara": "A soothing therapy where herbal oil is poured on the forehead to balance mental energies.",
+    "massage": "Warm oil massages that detoxify tissues and promote relaxation.",
+    "weight": "Personalized therapies and herbal diets for healthy weight management."
+  },
+  "doctors": {
+    "heading": "Meet Our Doctors",
+    "experience": "years experience"
+  },
+  "testimonials": {
+    "heading": "What Our Patients Say"
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "description": "Have questions or wish to start your Ayurvedic journey? Reach out to us today.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "quote": "Reconnecting your mind, body, and spirit through Ayurveda.",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "title": "Welcome to Sattva Ayurvedic Wellness",
+    "subtitle": "Experience authentic Ayurvedic healing designed to balance your body, mind, and spirit.",
+    "exploreTreatments": "Explore Treatments",
+    "learnMore": "Learn More",
+    "ourTreatments": "Our Signature Therapies",
+    "treatmentsDesc": "Ancient healing methods, modern care, personalized results — all rooted in nature.",
+    "viewAllTreatments": "View All Treatments",
+    "aboutAyurveda": "What is Ayurveda?",
+    "aboutText": "Ayurveda is a 5000-year-old holistic science from India that promotes balance between body, mind, and consciousness through natural therapies and herbal medicines.",
+    "expertDoctors": "Meet Our Expert Doctors",
+    "doctorsDesc": "Healers trained in classical Ayurveda, passionate about your well-being.",
+    "viewAllDoctors": "View All Doctors",
+    "patientStories": "Patient Success Stories",
+    "testimonial1": "After 21 days of Panchakarma, my chronic fatigue vanished. I sleep deeply, digest perfectly, and feel reborn. Truly a miracle!",
+    "testimonial2": "Shirodhara cured my 5-year migraine. No more painkillers. I can work, focus, and live again. Thank you, Dr. Liora!",
+    "testimonial3": "My heart health improved 40% in 3 months — naturally. No meds, just herbs and diet. I feel 10 years younger!",
+    "readyToHeal": "Ready to Begin Your Healing Journey?",
+    "contactPrompt": "Connect with our Ayurvedic experts and book your personalized consultation today.",
+    "bookNow": "Book Appointment"
+  },
+  "navbar": { "home": "Home", "about": "About", "treatments": "Treatments", "doctors": "Doctors", "contact": "Contact" }
+}
